@@ -6,7 +6,6 @@
 - ✨  I love startups and technology
 - 🌱  I’m ~~currently~~ always learning all of the things
 
----
 
 ### Connect with me
 
