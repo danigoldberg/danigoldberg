@@ -1,4 +1,6 @@
-### Hello World 👋
+<img align="right" src="https://github.com/danigoldberg/danigoldberg/blob/main/github-avatar.png" alt="Dani Goldberg Profile Picture" width=350px height=350px />
+
+### Hi, I'm Dani 👋
 
 - ⚡  I'm a mergers and acquisition advisor from Sydney
 - ✨  I love startups and technology
