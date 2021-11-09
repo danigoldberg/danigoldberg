@@ -1,13 +1,10 @@
-### Hello World 👋
+<img align="right" src="https://github.com/danigoldberg/danigoldberg/blob/main/github-avatar.png" alt="Dani Goldberg Profile Picture" width=350px height=350px />
 
-- ⚡  I'm a mergers and acquisition advisor from Sydney
-- ✨  I love startups and technology
-- 🌱  I’m ~~currently~~ always learning all of the things
+### 👋 &nbsp; Hi, I'm Dani
 
----
+⚡ &nbsp;I'm a mergers and acquisition advisor from Sydney  
+✨ &nbsp;I love startups, VC and technology  
+🌱 &nbsp;Always learning
 
-### Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/DaniLGoldberg/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DaniLGoldberg)
-<br>
+
